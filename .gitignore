@@ -1,5 +1,5 @@
-# Exclude sample images and cache directories
-Sample_Images/
+# Exclude analysis images and cache directories
+Analyze_Images/
 __pycache__/
 *.pyc
 *.pyo
